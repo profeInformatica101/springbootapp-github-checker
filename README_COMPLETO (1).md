@@ -11,6 +11,7 @@ Incluye:
 - Validación de datos (Jakarta Validation)
 
 El objetivo es ofrecer una herramienta escalable, segura y mantenible para docentes que necesiten automatizar la corrección de proyectos basados en Git y GitHub.
+
 # Instalación y Configuración de PostgreSQL en Linux  
 Guía rápida para instalar PostgreSQL en Ubuntu/Debian, crear usuarios y bases de datos, y conectarlo con Spring Boot y DBeaver.
 
@@ -148,4 +149,3 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 5. Test Connection → Finish
 
 ---
-
